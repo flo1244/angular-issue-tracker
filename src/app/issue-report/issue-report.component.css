@@ -1,0 +1,13 @@
+.clr-input,
+.clr-textarea {
+  width: 90%;
+}
+
+.form-issue{
+  padding:15px;
+}
+
+button {
+  margin-top: 25px;
+
+}
